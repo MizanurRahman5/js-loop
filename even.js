@@ -9,3 +9,8 @@ while (num < 10){
 
     num++;
 }
+
+for (let i=78; i<98; i=i+2){
+    console.log('it is even number' + i);
+    
+}
